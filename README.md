@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Viktor 👋
 
-<!--
-**ViktorH21/ViktorH21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Engineer in Test (SDET) with 4+ years of experience  
+🚀 Specializing in UI & API automation, test framework design, and continuous integration  
+🔧 Skilled in Java, Selenium WebDriver, Cucumber, RestAssured, TestNG, Postman, and SQL  
+🌍 Based in Jacksonville, FL | Open to remote opportunities  
+📫 Reach me: viktorhamaniuk@gmail.com | [LinkedIn](https://www.linkedin.com/in/viktor-hamaniuk-b1a43a356/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+
+- 🧪 [automation-framework-java](https://github.com/ViktorH21/automation-framework-java)  
+  Selenium + TestNG automation suite with Page Object Model and Jenkins integration
+
+- 🔗 [restassured-api-testing](https://github.com/ViktorH21/restassured-api-testing)  
+  End-to-end API testing using RestAssured for public APIs
+
+- 🧮 [sql-queries-practice](https://github.com/ViktorH21/sql-queries-practice)  
+  SQL join examples, data filtering, and aggregations using Oracle HR schema
